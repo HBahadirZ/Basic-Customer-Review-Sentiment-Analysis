@@ -1,0 +1,1001 @@
+Review_ID,Customer_Review,Rating,Sentiment_Score
+1,terrible customer support respond email,2,-1.0
+2,great product satisfied quality service,2,0.65
+3,product okay shipping took long,1,0.225
+4,poor packaging arrived damaged happy purchase,4,0.2
+5,great product satisfied quality service,1,0.65
+6,excellent customer service support team helpful,1,1.0
+7,great product satisfied quality service,2,0.65
+8,amazing experience everything went smoothly,4,0.5
+9,loved would definitely recommend friend family,4,0.35
+10,excellent customer service support team helpful,4,1.0
+11,product meet expectation quality subpar,5,0.0
+12,product okay shipping took long,2,0.225
+13,product okay shipping took long,4,0.225
+14,expected disappointing experience,1,-0.35
+15,great product satisfied quality service,5,0.65
+16,excellent customer service support team helpful,5,1.0
+17,amazing experience everything went smoothly,5,0.5
+18,satisfied purchase good value money,2,0.6
+19,great product satisfied quality service,4,0.65
+20,poor packaging arrived damaged happy purchase,5,0.2
+21,product meet expectation quality subpar,1,0.0
+22,expected disappointing experience,2,-0.35
+23,great product satisfied quality service,1,0.65
+24,satisfied purchase good value money,1,0.6
+25,excellent customer service support team helpful,1,1.0
+26,excellent customer service support team helpful,1,1.0
+27,satisfied purchase good value money,3,0.6
+28,expected disappointing experience,2,-0.35
+29,expected disappointing experience,5,-0.35
+30,amazing experience everything went smoothly,4,0.5
+31,product okay shipping took long,4,0.225
+32,loved would definitely recommend friend family,5,0.35
+33,excellent customer service support team helpful,3,1.0
+34,loved would definitely recommend friend family,5,0.35
+35,terrible customer support respond email,2,-1.0
+36,great product satisfied quality service,2,0.65
+37,poor packaging arrived damaged happy purchase,4,0.2
+38,loved would definitely recommend friend family,2,0.35
+39,poor packaging arrived damaged happy purchase,5,0.2
+40,expected disappointing experience,2,-0.35
+41,product okay shipping took long,2,0.225
+42,amazing experience everything went smoothly,2,0.5
+43,poor packaging arrived damaged happy purchase,2,0.2
+44,expected disappointing experience,1,-0.35
+45,satisfied purchase good value money,5,0.6
+46,excellent customer service support team helpful,1,1.0
+47,excellent customer service support team helpful,4,1.0
+48,amazing experience everything went smoothly,4,0.5
+49,poor packaging arrived damaged happy purchase,4,0.2
+50,amazing experience everything went smoothly,4,0.5
+51,terrible customer support respond email,1,-1.0
+52,product okay shipping took long,5,0.225
+53,amazing experience everything went smoothly,3,0.5
+54,loved would definitely recommend friend family,2,0.35
+55,product meet expectation quality subpar,3,0.0
+56,satisfied purchase good value money,1,0.6
+57,loved would definitely recommend friend family,5,0.35
+58,terrible customer support respond email,3,-1.0
+59,amazing experience everything went smoothly,5,0.5
+60,satisfied purchase good value money,4,0.6
+61,satisfied purchase good value money,2,0.6
+62,poor packaging arrived damaged happy purchase,5,0.2
+63,amazing experience everything went smoothly,4,0.5
+64,terrible customer support respond email,4,-1.0
+65,product meet expectation quality subpar,4,0.0
+66,loved would definitely recommend friend family,3,0.35
+67,product meet expectation quality subpar,3,0.0
+68,satisfied purchase good value money,4,0.6
+69,great product satisfied quality service,2,0.65
+70,amazing experience everything went smoothly,1,0.5
+71,expected disappointing experience,5,-0.35
+72,satisfied purchase good value money,1,0.6
+73,satisfied purchase good value money,1,0.6
+74,loved would definitely recommend friend family,1,0.35
+75,great product satisfied quality service,4,0.65
+76,terrible customer support respond email,4,-1.0
+77,poor packaging arrived damaged happy purchase,3,0.2
+78,loved would definitely recommend friend family,5,0.35
+79,expected disappointing experience,1,-0.35
+80,amazing experience everything went smoothly,5,0.5
+81,great product satisfied quality service,1,0.65
+82,product okay shipping took long,3,0.225
+83,poor packaging arrived damaged happy purchase,3,0.2
+84,product meet expectation quality subpar,4,0.0
+85,amazing experience everything went smoothly,4,0.5
+86,amazing experience everything went smoothly,2,0.5
+87,satisfied purchase good value money,5,0.6
+88,poor packaging arrived damaged happy purchase,4,0.2
+89,loved would definitely recommend friend family,5,0.35
+90,poor packaging arrived damaged happy purchase,3,0.2
+91,expected disappointing experience,2,-0.35
+92,poor packaging arrived damaged happy purchase,3,0.2
+93,amazing experience everything went smoothly,5,0.5
+94,product meet expectation quality subpar,4,0.0
+95,product okay shipping took long,1,0.225
+96,amazing experience everything went smoothly,3,0.5
+97,product meet expectation quality subpar,4,0.0
+98,product okay shipping took long,3,0.225
+99,loved would definitely recommend friend family,4,0.35
+100,loved would definitely recommend friend family,4,0.35
+101,expected disappointing experience,5,-0.35
+102,amazing experience everything went smoothly,2,0.5
+103,loved would definitely recommend friend family,5,0.35
+104,poor packaging arrived damaged happy purchase,3,0.2
+105,expected disappointing experience,1,-0.35
+106,terrible customer support respond email,1,-1.0
+107,product meet expectation quality subpar,1,0.0
+108,terrible customer support respond email,1,-1.0
+109,expected disappointing experience,1,-0.35
+110,loved would definitely recommend friend family,4,0.35
+111,expected disappointing experience,5,-0.35
+112,amazing experience everything went smoothly,5,0.5
+113,product okay shipping took long,1,0.225
+114,excellent customer service support team helpful,3,1.0
+115,product okay shipping took long,3,0.225
+116,great product satisfied quality service,2,0.65
+117,expected disappointing experience,3,-0.35
+118,excellent customer service support team helpful,5,1.0
+119,terrible customer support respond email,1,-1.0
+120,excellent customer service support team helpful,3,1.0
+121,loved would definitely recommend friend family,5,0.35
+122,product okay shipping took long,2,0.225
+123,product meet expectation quality subpar,4,0.0
+124,satisfied purchase good value money,4,0.6
+125,product meet expectation quality subpar,4,0.0
+126,product okay shipping took long,1,0.225
+127,terrible customer support respond email,3,-1.0
+128,product okay shipping took long,5,0.225
+129,product okay shipping took long,2,0.225
+130,great product satisfied quality service,2,0.65
+131,expected disappointing experience,2,-0.35
+132,loved would definitely recommend friend family,2,0.35
+133,great product satisfied quality service,5,0.65
+134,satisfied purchase good value money,5,0.6
+135,excellent customer service support team helpful,4,1.0
+136,terrible customer support respond email,3,-1.0
+137,amazing experience everything went smoothly,5,0.5
+138,amazing experience everything went smoothly,2,0.5
+139,amazing experience everything went smoothly,3,0.5
+140,excellent customer service support team helpful,5,1.0
+141,product meet expectation quality subpar,1,0.0
+142,amazing experience everything went smoothly,5,0.5
+143,product meet expectation quality subpar,4,0.0
+144,poor packaging arrived damaged happy purchase,1,0.2
+145,product meet expectation quality subpar,2,0.0
+146,terrible customer support respond email,1,-1.0
+147,terrible customer support respond email,5,-1.0
+148,loved would definitely recommend friend family,3,0.35
+149,great product satisfied quality service,2,0.65
+150,great product satisfied quality service,4,0.65
+151,terrible customer support respond email,3,-1.0
+152,poor packaging arrived damaged happy purchase,3,0.2
+153,loved would definitely recommend friend family,3,0.35
+154,product okay shipping took long,1,0.225
+155,satisfied purchase good value money,3,0.6
+156,poor packaging arrived damaged happy purchase,4,0.2
+157,excellent customer service support team helpful,3,1.0
+158,expected disappointing experience,1,-0.35
+159,great product satisfied quality service,2,0.65
+160,product meet expectation quality subpar,4,0.0
+161,satisfied purchase good value money,2,0.6
+162,great product satisfied quality service,1,0.65
+163,product meet expectation quality subpar,2,0.0
+164,excellent customer service support team helpful,3,1.0
+165,product okay shipping took long,4,0.225
+166,loved would definitely recommend friend family,2,0.35
+167,product meet expectation quality subpar,3,0.0
+168,poor packaging arrived damaged happy purchase,5,0.2
+169,great product satisfied quality service,5,0.65
+170,loved would definitely recommend friend family,2,0.35
+171,great product satisfied quality service,2,0.65
+172,expected disappointing experience,2,-0.35
+173,satisfied purchase good value money,2,0.6
+174,product okay shipping took long,2,0.225
+175,expected disappointing experience,3,-0.35
+176,product okay shipping took long,4,0.225
+177,excellent customer service support team helpful,4,1.0
+178,excellent customer service support team helpful,4,1.0
+179,satisfied purchase good value money,3,0.6
+180,satisfied purchase good value money,1,0.6
+181,product meet expectation quality subpar,3,0.0
+182,product okay shipping took long,1,0.225
+183,loved would definitely recommend friend family,3,0.35
+184,loved would definitely recommend friend family,5,0.35
+185,amazing experience everything went smoothly,5,0.5
+186,product meet expectation quality subpar,2,0.0
+187,poor packaging arrived damaged happy purchase,5,0.2
+188,product okay shipping took long,4,0.225
+189,terrible customer support respond email,5,-1.0
+190,satisfied purchase good value money,5,0.6
+191,product okay shipping took long,1,0.225
+192,poor packaging arrived damaged happy purchase,4,0.2
+193,great product satisfied quality service,5,0.65
+194,expected disappointing experience,5,-0.35
+195,loved would definitely recommend friend family,4,0.35
+196,terrible customer support respond email,3,-1.0
+197,amazing experience everything went smoothly,4,0.5
+198,product meet expectation quality subpar,2,0.0
+199,terrible customer support respond email,2,-1.0
+200,terrible customer support respond email,5,-1.0
+201,product meet expectation quality subpar,3,0.0
+202,product meet expectation quality subpar,1,0.0
+203,poor packaging arrived damaged happy purchase,4,0.2
+204,product meet expectation quality subpar,5,0.0
+205,loved would definitely recommend friend family,1,0.35
+206,terrible customer support respond email,5,-1.0
+207,product meet expectation quality subpar,5,0.0
+208,great product satisfied quality service,1,0.65
+209,excellent customer service support team helpful,5,1.0
+210,excellent customer service support team helpful,4,1.0
+211,great product satisfied quality service,3,0.65
+212,product meet expectation quality subpar,4,0.0
+213,satisfied purchase good value money,4,0.6
+214,loved would definitely recommend friend family,2,0.35
+215,product okay shipping took long,3,0.225
+216,excellent customer service support team helpful,4,1.0
+217,great product satisfied quality service,5,0.65
+218,loved would definitely recommend friend family,2,0.35
+219,great product satisfied quality service,5,0.65
+220,product okay shipping took long,1,0.225
+221,great product satisfied quality service,2,0.65
+222,poor packaging arrived damaged happy purchase,2,0.2
+223,terrible customer support respond email,2,-1.0
+224,great product satisfied quality service,4,0.65
+225,amazing experience everything went smoothly,5,0.5
+226,poor packaging arrived damaged happy purchase,3,0.2
+227,satisfied purchase good value money,3,0.6
+228,terrible customer support respond email,5,-1.0
+229,excellent customer service support team helpful,3,1.0
+230,amazing experience everything went smoothly,2,0.5
+231,product okay shipping took long,2,0.225
+232,loved would definitely recommend friend family,5,0.35
+233,excellent customer service support team helpful,1,1.0
+234,product okay shipping took long,4,0.225
+235,product meet expectation quality subpar,1,0.0
+236,terrible customer support respond email,4,-1.0
+237,poor packaging arrived damaged happy purchase,4,0.2
+238,excellent customer service support team helpful,2,1.0
+239,terrible customer support respond email,1,-1.0
+240,loved would definitely recommend friend family,1,0.35
+241,satisfied purchase good value money,2,0.6
+242,loved would definitely recommend friend family,5,0.35
+243,poor packaging arrived damaged happy purchase,5,0.2
+244,product meet expectation quality subpar,4,0.0
+245,product meet expectation quality subpar,5,0.0
+246,product meet expectation quality subpar,3,0.0
+247,great product satisfied quality service,4,0.65
+248,great product satisfied quality service,1,0.65
+249,terrible customer support respond email,1,-1.0
+250,expected disappointing experience,4,-0.35
+251,amazing experience everything went smoothly,2,0.5
+252,terrible customer support respond email,1,-1.0
+253,excellent customer service support team helpful,5,1.0
+254,loved would definitely recommend friend family,2,0.35
+255,amazing experience everything went smoothly,4,0.5
+256,amazing experience everything went smoothly,2,0.5
+257,satisfied purchase good value money,5,0.6
+258,satisfied purchase good value money,1,0.6
+259,amazing experience everything went smoothly,1,0.5
+260,poor packaging arrived damaged happy purchase,3,0.2
+261,product meet expectation quality subpar,5,0.0
+262,poor packaging arrived damaged happy purchase,3,0.2
+263,product meet expectation quality subpar,1,0.0
+264,poor packaging arrived damaged happy purchase,2,0.2
+265,excellent customer service support team helpful,4,1.0
+266,excellent customer service support team helpful,1,1.0
+267,poor packaging arrived damaged happy purchase,5,0.2
+268,product meet expectation quality subpar,5,0.0
+269,expected disappointing experience,5,-0.35
+270,amazing experience everything went smoothly,4,0.5
+271,product okay shipping took long,3,0.225
+272,product okay shipping took long,5,0.225
+273,product okay shipping took long,4,0.225
+274,product meet expectation quality subpar,3,0.0
+275,product meet expectation quality subpar,4,0.0
+276,product okay shipping took long,4,0.225
+277,terrible customer support respond email,3,-1.0
+278,amazing experience everything went smoothly,1,0.5
+279,poor packaging arrived damaged happy purchase,1,0.2
+280,expected disappointing experience,3,-0.35
+281,product okay shipping took long,2,0.225
+282,product okay shipping took long,1,0.225
+283,product meet expectation quality subpar,3,0.0
+284,product meet expectation quality subpar,1,0.0
+285,product okay shipping took long,3,0.225
+286,satisfied purchase good value money,5,0.6
+287,loved would definitely recommend friend family,2,0.35
+288,excellent customer service support team helpful,4,1.0
+289,amazing experience everything went smoothly,5,0.5
+290,loved would definitely recommend friend family,3,0.35
+291,product meet expectation quality subpar,4,0.0
+292,loved would definitely recommend friend family,2,0.35
+293,product meet expectation quality subpar,5,0.0
+294,loved would definitely recommend friend family,2,0.35
+295,terrible customer support respond email,1,-1.0
+296,satisfied purchase good value money,3,0.6
+297,loved would definitely recommend friend family,3,0.35
+298,excellent customer service support team helpful,5,1.0
+299,satisfied purchase good value money,4,0.6
+300,loved would definitely recommend friend family,1,0.35
+301,product meet expectation quality subpar,5,0.0
+302,amazing experience everything went smoothly,5,0.5
+303,satisfied purchase good value money,4,0.6
+304,loved would definitely recommend friend family,2,0.35
+305,satisfied purchase good value money,2,0.6
+306,poor packaging arrived damaged happy purchase,2,0.2
+307,product meet expectation quality subpar,5,0.0
+308,amazing experience everything went smoothly,4,0.5
+309,expected disappointing experience,3,-0.35
+310,product okay shipping took long,2,0.225
+311,poor packaging arrived damaged happy purchase,2,0.2
+312,satisfied purchase good value money,5,0.6
+313,expected disappointing experience,3,-0.35
+314,expected disappointing experience,4,-0.35
+315,poor packaging arrived damaged happy purchase,2,0.2
+316,product meet expectation quality subpar,3,0.0
+317,satisfied purchase good value money,1,0.6
+318,product meet expectation quality subpar,3,0.0
+319,poor packaging arrived damaged happy purchase,4,0.2
+320,excellent customer service support team helpful,1,1.0
+321,loved would definitely recommend friend family,3,0.35
+322,great product satisfied quality service,5,0.65
+323,product okay shipping took long,2,0.225
+324,loved would definitely recommend friend family,4,0.35
+325,product okay shipping took long,1,0.225
+326,great product satisfied quality service,3,0.65
+327,excellent customer service support team helpful,1,1.0
+328,great product satisfied quality service,4,0.65
+329,poor packaging arrived damaged happy purchase,5,0.2
+330,excellent customer service support team helpful,5,1.0
+331,terrible customer support respond email,5,-1.0
+332,satisfied purchase good value money,5,0.6
+333,poor packaging arrived damaged happy purchase,5,0.2
+334,expected disappointing experience,2,-0.35
+335,terrible customer support respond email,5,-1.0
+336,product okay shipping took long,4,0.225
+337,excellent customer service support team helpful,3,1.0
+338,terrible customer support respond email,3,-1.0
+339,loved would definitely recommend friend family,5,0.35
+340,expected disappointing experience,1,-0.35
+341,amazing experience everything went smoothly,3,0.5
+342,terrible customer support respond email,5,-1.0
+343,poor packaging arrived damaged happy purchase,2,0.2
+344,amazing experience everything went smoothly,5,0.5
+345,great product satisfied quality service,1,0.65
+346,amazing experience everything went smoothly,4,0.5
+347,terrible customer support respond email,1,-1.0
+348,product okay shipping took long,3,0.225
+349,amazing experience everything went smoothly,1,0.5
+350,terrible customer support respond email,4,-1.0
+351,terrible customer support respond email,1,-1.0
+352,loved would definitely recommend friend family,3,0.35
+353,excellent customer service support team helpful,5,1.0
+354,terrible customer support respond email,3,-1.0
+355,terrible customer support respond email,3,-1.0
+356,product okay shipping took long,3,0.225
+357,expected disappointing experience,1,-0.35
+358,amazing experience everything went smoothly,4,0.5
+359,poor packaging arrived damaged happy purchase,5,0.2
+360,great product satisfied quality service,5,0.65
+361,product meet expectation quality subpar,4,0.0
+362,product meet expectation quality subpar,4,0.0
+363,product meet expectation quality subpar,4,0.0
+364,terrible customer support respond email,2,-1.0
+365,loved would definitely recommend friend family,4,0.35
+366,amazing experience everything went smoothly,3,0.5
+367,product okay shipping took long,2,0.225
+368,satisfied purchase good value money,1,0.6
+369,loved would definitely recommend friend family,4,0.35
+370,product meet expectation quality subpar,1,0.0
+371,product okay shipping took long,2,0.225
+372,product meet expectation quality subpar,5,0.0
+373,excellent customer service support team helpful,2,1.0
+374,product meet expectation quality subpar,2,0.0
+375,loved would definitely recommend friend family,4,0.35
+376,excellent customer service support team helpful,3,1.0
+377,terrible customer support respond email,2,-1.0
+378,loved would definitely recommend friend family,3,0.35
+379,expected disappointing experience,1,-0.35
+380,great product satisfied quality service,2,0.65
+381,product okay shipping took long,2,0.225
+382,product okay shipping took long,1,0.225
+383,great product satisfied quality service,2,0.65
+384,amazing experience everything went smoothly,4,0.5
+385,product meet expectation quality subpar,2,0.0
+386,satisfied purchase good value money,1,0.6
+387,excellent customer service support team helpful,1,1.0
+388,poor packaging arrived damaged happy purchase,3,0.2
+389,product meet expectation quality subpar,5,0.0
+390,poor packaging arrived damaged happy purchase,2,0.2
+391,expected disappointing experience,3,-0.35
+392,product meet expectation quality subpar,4,0.0
+393,excellent customer service support team helpful,4,1.0
+394,excellent customer service support team helpful,2,1.0
+395,product okay shipping took long,1,0.225
+396,amazing experience everything went smoothly,3,0.5
+397,satisfied purchase good value money,2,0.6
+398,terrible customer support respond email,4,-1.0
+399,terrible customer support respond email,2,-1.0
+400,expected disappointing experience,1,-0.35
+401,satisfied purchase good value money,1,0.6
+402,loved would definitely recommend friend family,5,0.35
+403,product meet expectation quality subpar,3,0.0
+404,product okay shipping took long,3,0.225
+405,terrible customer support respond email,4,-1.0
+406,terrible customer support respond email,2,-1.0
+407,expected disappointing experience,2,-0.35
+408,great product satisfied quality service,2,0.65
+409,amazing experience everything went smoothly,4,0.5
+410,expected disappointing experience,4,-0.35
+411,loved would definitely recommend friend family,2,0.35
+412,poor packaging arrived damaged happy purchase,3,0.2
+413,excellent customer service support team helpful,5,1.0
+414,satisfied purchase good value money,1,0.6
+415,poor packaging arrived damaged happy purchase,4,0.2
+416,expected disappointing experience,1,-0.35
+417,product meet expectation quality subpar,3,0.0
+418,excellent customer service support team helpful,2,1.0
+419,loved would definitely recommend friend family,4,0.35
+420,terrible customer support respond email,1,-1.0
+421,expected disappointing experience,1,-0.35
+422,excellent customer service support team helpful,3,1.0
+423,product okay shipping took long,1,0.225
+424,expected disappointing experience,2,-0.35
+425,terrible customer support respond email,4,-1.0
+426,loved would definitely recommend friend family,2,0.35
+427,excellent customer service support team helpful,3,1.0
+428,expected disappointing experience,1,-0.35
+429,amazing experience everything went smoothly,5,0.5
+430,amazing experience everything went smoothly,1,0.5
+431,satisfied purchase good value money,4,0.6
+432,loved would definitely recommend friend family,1,0.35
+433,product okay shipping took long,1,0.225
+434,amazing experience everything went smoothly,3,0.5
+435,product meet expectation quality subpar,1,0.0
+436,product okay shipping took long,3,0.225
+437,loved would definitely recommend friend family,2,0.35
+438,poor packaging arrived damaged happy purchase,1,0.2
+439,product okay shipping took long,3,0.225
+440,satisfied purchase good value money,5,0.6
+441,amazing experience everything went smoothly,5,0.5
+442,satisfied purchase good value money,5,0.6
+443,excellent customer service support team helpful,5,1.0
+444,great product satisfied quality service,4,0.65
+445,great product satisfied quality service,4,0.65
+446,great product satisfied quality service,5,0.65
+447,satisfied purchase good value money,5,0.6
+448,amazing experience everything went smoothly,4,0.5
+449,poor packaging arrived damaged happy purchase,2,0.2
+450,excellent customer service support team helpful,3,1.0
+451,great product satisfied quality service,5,0.65
+452,great product satisfied quality service,2,0.65
+453,loved would definitely recommend friend family,1,0.35
+454,product okay shipping took long,2,0.225
+455,product meet expectation quality subpar,2,0.0
+456,great product satisfied quality service,1,0.65
+457,poor packaging arrived damaged happy purchase,3,0.2
+458,excellent customer service support team helpful,2,1.0
+459,loved would definitely recommend friend family,2,0.35
+460,loved would definitely recommend friend family,5,0.35
+461,expected disappointing experience,4,-0.35
+462,product okay shipping took long,4,0.225
+463,product okay shipping took long,3,0.225
+464,satisfied purchase good value money,2,0.6
+465,product okay shipping took long,2,0.225
+466,amazing experience everything went smoothly,4,0.5
+467,excellent customer service support team helpful,3,1.0
+468,satisfied purchase good value money,3,0.6
+469,product meet expectation quality subpar,3,0.0
+470,excellent customer service support team helpful,3,1.0
+471,expected disappointing experience,2,-0.35
+472,product meet expectation quality subpar,1,0.0
+473,product meet expectation quality subpar,3,0.0
+474,excellent customer service support team helpful,3,1.0
+475,poor packaging arrived damaged happy purchase,1,0.2
+476,product meet expectation quality subpar,1,0.0
+477,terrible customer support respond email,3,-1.0
+478,loved would definitely recommend friend family,2,0.35
+479,expected disappointing experience,3,-0.35
+480,excellent customer service support team helpful,2,1.0
+481,amazing experience everything went smoothly,3,0.5
+482,expected disappointing experience,5,-0.35
+483,poor packaging arrived damaged happy purchase,5,0.2
+484,expected disappointing experience,3,-0.35
+485,poor packaging arrived damaged happy purchase,4,0.2
+486,amazing experience everything went smoothly,5,0.5
+487,poor packaging arrived damaged happy purchase,1,0.2
+488,amazing experience everything went smoothly,2,0.5
+489,loved would definitely recommend friend family,5,0.35
+490,terrible customer support respond email,3,-1.0
+491,product okay shipping took long,1,0.225
+492,terrible customer support respond email,4,-1.0
+493,excellent customer service support team helpful,5,1.0
+494,amazing experience everything went smoothly,4,0.5
+495,loved would definitely recommend friend family,5,0.35
+496,great product satisfied quality service,4,0.65
+497,product meet expectation quality subpar,1,0.0
+498,satisfied purchase good value money,1,0.6
+499,product okay shipping took long,5,0.225
+500,poor packaging arrived damaged happy purchase,2,0.2
+501,poor packaging arrived damaged happy purchase,1,0.2
+502,amazing experience everything went smoothly,5,0.5
+503,product okay shipping took long,1,0.225
+504,terrible customer support respond email,5,-1.0
+505,loved would definitely recommend friend family,1,0.35
+506,excellent customer service support team helpful,2,1.0
+507,expected disappointing experience,3,-0.35
+508,expected disappointing experience,5,-0.35
+509,poor packaging arrived damaged happy purchase,1,0.2
+510,expected disappointing experience,2,-0.35
+511,terrible customer support respond email,1,-1.0
+512,expected disappointing experience,1,-0.35
+513,amazing experience everything went smoothly,5,0.5
+514,product okay shipping took long,2,0.225
+515,terrible customer support respond email,1,-1.0
+516,product meet expectation quality subpar,4,0.0
+517,expected disappointing experience,5,-0.35
+518,poor packaging arrived damaged happy purchase,5,0.2
+519,satisfied purchase good value money,2,0.6
+520,loved would definitely recommend friend family,1,0.35
+521,satisfied purchase good value money,4,0.6
+522,excellent customer service support team helpful,2,1.0
+523,product okay shipping took long,3,0.225
+524,amazing experience everything went smoothly,1,0.5
+525,excellent customer service support team helpful,5,1.0
+526,excellent customer service support team helpful,5,1.0
+527,great product satisfied quality service,1,0.65
+528,great product satisfied quality service,4,0.65
+529,product meet expectation quality subpar,1,0.0
+530,excellent customer service support team helpful,5,1.0
+531,excellent customer service support team helpful,5,1.0
+532,expected disappointing experience,3,-0.35
+533,expected disappointing experience,1,-0.35
+534,terrible customer support respond email,3,-1.0
+535,great product satisfied quality service,2,0.65
+536,loved would definitely recommend friend family,4,0.35
+537,satisfied purchase good value money,3,0.6
+538,terrible customer support respond email,4,-1.0
+539,expected disappointing experience,2,-0.35
+540,loved would definitely recommend friend family,3,0.35
+541,great product satisfied quality service,3,0.65
+542,excellent customer service support team helpful,2,1.0
+543,product okay shipping took long,2,0.225
+544,product meet expectation quality subpar,2,0.0
+545,product okay shipping took long,2,0.225
+546,product okay shipping took long,3,0.225
+547,great product satisfied quality service,3,0.65
+548,satisfied purchase good value money,3,0.6
+549,satisfied purchase good value money,4,0.6
+550,product meet expectation quality subpar,2,0.0
+551,great product satisfied quality service,5,0.65
+552,amazing experience everything went smoothly,5,0.5
+553,product okay shipping took long,5,0.225
+554,amazing experience everything went smoothly,5,0.5
+555,excellent customer service support team helpful,3,1.0
+556,amazing experience everything went smoothly,3,0.5
+557,amazing experience everything went smoothly,3,0.5
+558,terrible customer support respond email,3,-1.0
+559,great product satisfied quality service,1,0.65
+560,product meet expectation quality subpar,3,0.0
+561,poor packaging arrived damaged happy purchase,2,0.2
+562,satisfied purchase good value money,4,0.6
+563,great product satisfied quality service,4,0.65
+564,amazing experience everything went smoothly,1,0.5
+565,loved would definitely recommend friend family,4,0.35
+566,product okay shipping took long,3,0.225
+567,poor packaging arrived damaged happy purchase,3,0.2
+568,amazing experience everything went smoothly,2,0.5
+569,amazing experience everything went smoothly,3,0.5
+570,terrible customer support respond email,3,-1.0
+571,great product satisfied quality service,2,0.65
+572,loved would definitely recommend friend family,1,0.35
+573,loved would definitely recommend friend family,2,0.35
+574,product meet expectation quality subpar,4,0.0
+575,product meet expectation quality subpar,2,0.0
+576,product meet expectation quality subpar,2,0.0
+577,product okay shipping took long,5,0.225
+578,loved would definitely recommend friend family,1,0.35
+579,satisfied purchase good value money,2,0.6
+580,satisfied purchase good value money,4,0.6
+581,excellent customer service support team helpful,2,1.0
+582,product okay shipping took long,4,0.225
+583,great product satisfied quality service,3,0.65
+584,excellent customer service support team helpful,3,1.0
+585,satisfied purchase good value money,2,0.6
+586,product okay shipping took long,2,0.225
+587,amazing experience everything went smoothly,2,0.5
+588,product meet expectation quality subpar,4,0.0
+589,expected disappointing experience,5,-0.35
+590,satisfied purchase good value money,1,0.6
+591,amazing experience everything went smoothly,4,0.5
+592,product meet expectation quality subpar,5,0.0
+593,product meet expectation quality subpar,3,0.0
+594,excellent customer service support team helpful,3,1.0
+595,product okay shipping took long,1,0.225
+596,product meet expectation quality subpar,5,0.0
+597,great product satisfied quality service,4,0.65
+598,amazing experience everything went smoothly,4,0.5
+599,amazing experience everything went smoothly,5,0.5
+600,satisfied purchase good value money,3,0.6
+601,expected disappointing experience,3,-0.35
+602,amazing experience everything went smoothly,5,0.5
+603,amazing experience everything went smoothly,2,0.5
+604,product meet expectation quality subpar,3,0.0
+605,amazing experience everything went smoothly,5,0.5
+606,loved would definitely recommend friend family,5,0.35
+607,expected disappointing experience,2,-0.35
+608,product okay shipping took long,3,0.225
+609,excellent customer service support team helpful,5,1.0
+610,loved would definitely recommend friend family,3,0.35
+611,excellent customer service support team helpful,3,1.0
+612,product okay shipping took long,4,0.225
+613,poor packaging arrived damaged happy purchase,2,0.2
+614,amazing experience everything went smoothly,5,0.5
+615,terrible customer support respond email,3,-1.0
+616,product okay shipping took long,3,0.225
+617,product meet expectation quality subpar,4,0.0
+618,product okay shipping took long,2,0.225
+619,satisfied purchase good value money,5,0.6
+620,poor packaging arrived damaged happy purchase,4,0.2
+621,excellent customer service support team helpful,3,1.0
+622,satisfied purchase good value money,3,0.6
+623,great product satisfied quality service,3,0.65
+624,expected disappointing experience,4,-0.35
+625,product meet expectation quality subpar,1,0.0
+626,excellent customer service support team helpful,1,1.0
+627,satisfied purchase good value money,5,0.6
+628,excellent customer service support team helpful,2,1.0
+629,loved would definitely recommend friend family,4,0.35
+630,poor packaging arrived damaged happy purchase,4,0.2
+631,poor packaging arrived damaged happy purchase,3,0.2
+632,terrible customer support respond email,4,-1.0
+633,satisfied purchase good value money,2,0.6
+634,product okay shipping took long,3,0.225
+635,product okay shipping took long,4,0.225
+636,loved would definitely recommend friend family,1,0.35
+637,excellent customer service support team helpful,3,1.0
+638,terrible customer support respond email,3,-1.0
+639,expected disappointing experience,5,-0.35
+640,expected disappointing experience,4,-0.35
+641,loved would definitely recommend friend family,4,0.35
+642,product meet expectation quality subpar,3,0.0
+643,product meet expectation quality subpar,4,0.0
+644,product okay shipping took long,1,0.225
+645,amazing experience everything went smoothly,3,0.5
+646,great product satisfied quality service,3,0.65
+647,great product satisfied quality service,5,0.65
+648,product meet expectation quality subpar,1,0.0
+649,great product satisfied quality service,3,0.65
+650,great product satisfied quality service,2,0.65
+651,expected disappointing experience,5,-0.35
+652,terrible customer support respond email,1,-1.0
+653,terrible customer support respond email,1,-1.0
+654,expected disappointing experience,5,-0.35
+655,satisfied purchase good value money,4,0.6
+656,poor packaging arrived damaged happy purchase,4,0.2
+657,expected disappointing experience,5,-0.35
+658,expected disappointing experience,5,-0.35
+659,poor packaging arrived damaged happy purchase,2,0.2
+660,product okay shipping took long,2,0.225
+661,terrible customer support respond email,5,-1.0
+662,excellent customer service support team helpful,5,1.0
+663,amazing experience everything went smoothly,4,0.5
+664,poor packaging arrived damaged happy purchase,5,0.2
+665,poor packaging arrived damaged happy purchase,1,0.2
+666,loved would definitely recommend friend family,4,0.35
+667,great product satisfied quality service,5,0.65
+668,poor packaging arrived damaged happy purchase,4,0.2
+669,product meet expectation quality subpar,1,0.0
+670,amazing experience everything went smoothly,1,0.5
+671,loved would definitely recommend friend family,3,0.35
+672,poor packaging arrived damaged happy purchase,3,0.2
+673,poor packaging arrived damaged happy purchase,1,0.2
+674,terrible customer support respond email,5,-1.0
+675,satisfied purchase good value money,5,0.6
+676,great product satisfied quality service,4,0.65
+677,satisfied purchase good value money,5,0.6
+678,terrible customer support respond email,4,-1.0
+679,expected disappointing experience,3,-0.35
+680,loved would definitely recommend friend family,5,0.35
+681,great product satisfied quality service,5,0.65
+682,great product satisfied quality service,3,0.65
+683,product meet expectation quality subpar,5,0.0
+684,product meet expectation quality subpar,1,0.0
+685,expected disappointing experience,1,-0.35
+686,satisfied purchase good value money,1,0.6
+687,product okay shipping took long,3,0.225
+688,expected disappointing experience,3,-0.35
+689,satisfied purchase good value money,5,0.6
+690,product meet expectation quality subpar,1,0.0
+691,excellent customer service support team helpful,1,1.0
+692,satisfied purchase good value money,1,0.6
+693,excellent customer service support team helpful,1,1.0
+694,poor packaging arrived damaged happy purchase,1,0.2
+695,expected disappointing experience,1,-0.35
+696,poor packaging arrived damaged happy purchase,1,0.2
+697,poor packaging arrived damaged happy purchase,3,0.2
+698,product okay shipping took long,1,0.225
+699,amazing experience everything went smoothly,5,0.5
+700,terrible customer support respond email,4,-1.0
+701,poor packaging arrived damaged happy purchase,3,0.2
+702,product meet expectation quality subpar,3,0.0
+703,satisfied purchase good value money,1,0.6
+704,product meet expectation quality subpar,3,0.0
+705,product okay shipping took long,5,0.225
+706,excellent customer service support team helpful,2,1.0
+707,product meet expectation quality subpar,1,0.0
+708,terrible customer support respond email,5,-1.0
+709,satisfied purchase good value money,1,0.6
+710,poor packaging arrived damaged happy purchase,4,0.2
+711,great product satisfied quality service,1,0.65
+712,terrible customer support respond email,3,-1.0
+713,satisfied purchase good value money,4,0.6
+714,poor packaging arrived damaged happy purchase,1,0.2
+715,product meet expectation quality subpar,1,0.0
+716,terrible customer support respond email,1,-1.0
+717,product okay shipping took long,3,0.225
+718,terrible customer support respond email,4,-1.0
+719,great product satisfied quality service,4,0.65
+720,terrible customer support respond email,4,-1.0
+721,great product satisfied quality service,2,0.65
+722,terrible customer support respond email,4,-1.0
+723,amazing experience everything went smoothly,4,0.5
+724,terrible customer support respond email,3,-1.0
+725,satisfied purchase good value money,1,0.6
+726,product okay shipping took long,3,0.225
+727,satisfied purchase good value money,5,0.6
+728,poor packaging arrived damaged happy purchase,1,0.2
+729,terrible customer support respond email,5,-1.0
+730,great product satisfied quality service,1,0.65
+731,terrible customer support respond email,2,-1.0
+732,expected disappointing experience,1,-0.35
+733,product meet expectation quality subpar,5,0.0
+734,amazing experience everything went smoothly,5,0.5
+735,poor packaging arrived damaged happy purchase,4,0.2
+736,satisfied purchase good value money,4,0.6
+737,terrible customer support respond email,3,-1.0
+738,excellent customer service support team helpful,5,1.0
+739,product okay shipping took long,2,0.225
+740,great product satisfied quality service,3,0.65
+741,poor packaging arrived damaged happy purchase,4,0.2
+742,excellent customer service support team helpful,3,1.0
+743,product okay shipping took long,5,0.225
+744,loved would definitely recommend friend family,3,0.35
+745,product meet expectation quality subpar,2,0.0
+746,amazing experience everything went smoothly,2,0.5
+747,excellent customer service support team helpful,2,1.0
+748,loved would definitely recommend friend family,3,0.35
+749,terrible customer support respond email,4,-1.0
+750,loved would definitely recommend friend family,5,0.35
+751,poor packaging arrived damaged happy purchase,4,0.2
+752,amazing experience everything went smoothly,5,0.5
+753,poor packaging arrived damaged happy purchase,2,0.2
+754,poor packaging arrived damaged happy purchase,2,0.2
+755,great product satisfied quality service,1,0.65
+756,excellent customer service support team helpful,4,1.0
+757,expected disappointing experience,5,-0.35
+758,expected disappointing experience,1,-0.35
+759,product meet expectation quality subpar,1,0.0
+760,satisfied purchase good value money,3,0.6
+761,product okay shipping took long,5,0.225
+762,poor packaging arrived damaged happy purchase,2,0.2
+763,product okay shipping took long,2,0.225
+764,expected disappointing experience,5,-0.35
+765,expected disappointing experience,5,-0.35
+766,product meet expectation quality subpar,5,0.0
+767,loved would definitely recommend friend family,5,0.35
+768,product meet expectation quality subpar,2,0.0
+769,product okay shipping took long,2,0.225
+770,expected disappointing experience,5,-0.35
+771,terrible customer support respond email,4,-1.0
+772,poor packaging arrived damaged happy purchase,5,0.2
+773,expected disappointing experience,3,-0.35
+774,excellent customer service support team helpful,3,1.0
+775,terrible customer support respond email,1,-1.0
+776,product okay shipping took long,2,0.225
+777,product meet expectation quality subpar,4,0.0
+778,excellent customer service support team helpful,5,1.0
+779,expected disappointing experience,4,-0.35
+780,product meet expectation quality subpar,2,0.0
+781,loved would definitely recommend friend family,4,0.35
+782,expected disappointing experience,1,-0.35
+783,product okay shipping took long,1,0.225
+784,satisfied purchase good value money,4,0.6
+785,product okay shipping took long,5,0.225
+786,product meet expectation quality subpar,2,0.0
+787,loved would definitely recommend friend family,3,0.35
+788,product okay shipping took long,1,0.225
+789,product okay shipping took long,3,0.225
+790,excellent customer service support team helpful,2,1.0
+791,product meet expectation quality subpar,1,0.0
+792,product meet expectation quality subpar,4,0.0
+793,excellent customer service support team helpful,2,1.0
+794,product okay shipping took long,1,0.225
+795,great product satisfied quality service,3,0.65
+796,satisfied purchase good value money,1,0.6
+797,terrible customer support respond email,2,-1.0
+798,loved would definitely recommend friend family,1,0.35
+799,great product satisfied quality service,2,0.65
+800,poor packaging arrived damaged happy purchase,5,0.2
+801,loved would definitely recommend friend family,4,0.35
+802,product okay shipping took long,2,0.225
+803,loved would definitely recommend friend family,3,0.35
+804,loved would definitely recommend friend family,2,0.35
+805,product okay shipping took long,4,0.225
+806,expected disappointing experience,2,-0.35
+807,amazing experience everything went smoothly,4,0.5
+808,amazing experience everything went smoothly,2,0.5
+809,expected disappointing experience,5,-0.35
+810,poor packaging arrived damaged happy purchase,3,0.2
+811,excellent customer service support team helpful,3,1.0
+812,satisfied purchase good value money,5,0.6
+813,product meet expectation quality subpar,1,0.0
+814,amazing experience everything went smoothly,2,0.5
+815,great product satisfied quality service,5,0.65
+816,satisfied purchase good value money,3,0.6
+817,satisfied purchase good value money,4,0.6
+818,satisfied purchase good value money,5,0.6
+819,terrible customer support respond email,4,-1.0
+820,expected disappointing experience,3,-0.35
+821,loved would definitely recommend friend family,4,0.35
+822,expected disappointing experience,3,-0.35
+823,amazing experience everything went smoothly,2,0.5
+824,product okay shipping took long,1,0.225
+825,product meet expectation quality subpar,3,0.0
+826,satisfied purchase good value money,5,0.6
+827,satisfied purchase good value money,3,0.6
+828,loved would definitely recommend friend family,3,0.35
+829,poor packaging arrived damaged happy purchase,2,0.2
+830,product meet expectation quality subpar,1,0.0
+831,terrible customer support respond email,2,-1.0
+832,expected disappointing experience,1,-0.35
+833,satisfied purchase good value money,3,0.6
+834,poor packaging arrived damaged happy purchase,3,0.2
+835,expected disappointing experience,4,-0.35
+836,poor packaging arrived damaged happy purchase,1,0.2
+837,satisfied purchase good value money,2,0.6
+838,expected disappointing experience,1,-0.35
+839,amazing experience everything went smoothly,4,0.5
+840,satisfied purchase good value money,4,0.6
+841,product meet expectation quality subpar,1,0.0
+842,satisfied purchase good value money,1,0.6
+843,terrible customer support respond email,4,-1.0
+844,poor packaging arrived damaged happy purchase,2,0.2
+845,loved would definitely recommend friend family,1,0.35
+846,great product satisfied quality service,3,0.65
+847,great product satisfied quality service,2,0.65
+848,poor packaging arrived damaged happy purchase,4,0.2
+849,amazing experience everything went smoothly,3,0.5
+850,terrible customer support respond email,4,-1.0
+851,great product satisfied quality service,2,0.65
+852,loved would definitely recommend friend family,4,0.35
+853,terrible customer support respond email,4,-1.0
+854,product meet expectation quality subpar,4,0.0
+855,product okay shipping took long,1,0.225
+856,expected disappointing experience,2,-0.35
+857,excellent customer service support team helpful,4,1.0
+858,terrible customer support respond email,1,-1.0
+859,satisfied purchase good value money,4,0.6
+860,terrible customer support respond email,5,-1.0
+861,terrible customer support respond email,3,-1.0
+862,terrible customer support respond email,1,-1.0
+863,terrible customer support respond email,1,-1.0
+864,satisfied purchase good value money,5,0.6
+865,amazing experience everything went smoothly,3,0.5
+866,product meet expectation quality subpar,3,0.0
+867,product okay shipping took long,3,0.225
+868,excellent customer service support team helpful,4,1.0
+869,amazing experience everything went smoothly,2,0.5
+870,excellent customer service support team helpful,3,1.0
+871,loved would definitely recommend friend family,4,0.35
+872,poor packaging arrived damaged happy purchase,1,0.2
+873,product okay shipping took long,4,0.225
+874,product meet expectation quality subpar,1,0.0
+875,satisfied purchase good value money,5,0.6
+876,poor packaging arrived damaged happy purchase,3,0.2
+877,product meet expectation quality subpar,5,0.0
+878,satisfied purchase good value money,3,0.6
+879,product meet expectation quality subpar,4,0.0
+880,excellent customer service support team helpful,2,1.0
+881,great product satisfied quality service,3,0.65
+882,product meet expectation quality subpar,4,0.0
+883,expected disappointing experience,1,-0.35
+884,satisfied purchase good value money,3,0.6
+885,product okay shipping took long,2,0.225
+886,terrible customer support respond email,2,-1.0
+887,product okay shipping took long,4,0.225
+888,product okay shipping took long,2,0.225
+889,great product satisfied quality service,4,0.65
+890,expected disappointing experience,2,-0.35
+891,excellent customer service support team helpful,4,1.0
+892,amazing experience everything went smoothly,1,0.5
+893,expected disappointing experience,3,-0.35
+894,loved would definitely recommend friend family,4,0.35
+895,satisfied purchase good value money,2,0.6
+896,product meet expectation quality subpar,2,0.0
+897,amazing experience everything went smoothly,1,0.5
+898,terrible customer support respond email,3,-1.0
+899,loved would definitely recommend friend family,4,0.35
+900,excellent customer service support team helpful,4,1.0
+901,product meet expectation quality subpar,5,0.0
+902,amazing experience everything went smoothly,5,0.5
+903,product okay shipping took long,3,0.225
+904,product meet expectation quality subpar,1,0.0
+905,amazing experience everything went smoothly,2,0.5
+906,terrible customer support respond email,5,-1.0
+907,product okay shipping took long,5,0.225
+908,expected disappointing experience,2,-0.35
+909,amazing experience everything went smoothly,4,0.5
+910,loved would definitely recommend friend family,2,0.35
+911,terrible customer support respond email,1,-1.0
+912,excellent customer service support team helpful,4,1.0
+913,expected disappointing experience,1,-0.35
+914,loved would definitely recommend friend family,5,0.35
+915,amazing experience everything went smoothly,3,0.5
+916,great product satisfied quality service,1,0.65
+917,amazing experience everything went smoothly,5,0.5
+918,satisfied purchase good value money,2,0.6
+919,excellent customer service support team helpful,2,1.0
+920,amazing experience everything went smoothly,2,0.5
+921,terrible customer support respond email,5,-1.0
+922,amazing experience everything went smoothly,3,0.5
+923,amazing experience everything went smoothly,1,0.5
+924,loved would definitely recommend friend family,3,0.35
+925,great product satisfied quality service,4,0.65
+926,expected disappointing experience,4,-0.35
+927,great product satisfied quality service,5,0.65
+928,loved would definitely recommend friend family,5,0.35
+929,poor packaging arrived damaged happy purchase,5,0.2
+930,expected disappointing experience,5,-0.35
+931,poor packaging arrived damaged happy purchase,5,0.2
+932,satisfied purchase good value money,5,0.6
+933,loved would definitely recommend friend family,1,0.35
+934,poor packaging arrived damaged happy purchase,5,0.2
+935,terrible customer support respond email,1,-1.0
+936,amazing experience everything went smoothly,1,0.5
+937,product okay shipping took long,4,0.225
+938,great product satisfied quality service,3,0.65
+939,product meet expectation quality subpar,2,0.0
+940,excellent customer service support team helpful,2,1.0
+941,expected disappointing experience,4,-0.35
+942,product okay shipping took long,5,0.225
+943,poor packaging arrived damaged happy purchase,3,0.2
+944,amazing experience everything went smoothly,2,0.5
+945,loved would definitely recommend friend family,2,0.35
+946,terrible customer support respond email,2,-1.0
+947,excellent customer service support team helpful,5,1.0
+948,product okay shipping took long,4,0.225
+949,loved would definitely recommend friend family,4,0.35
+950,satisfied purchase good value money,5,0.6
+951,loved would definitely recommend friend family,5,0.35
+952,amazing experience everything went smoothly,4,0.5
+953,amazing experience everything went smoothly,5,0.5
+954,product meet expectation quality subpar,4,0.0
+955,great product satisfied quality service,2,0.65
+956,expected disappointing experience,2,-0.35
+957,great product satisfied quality service,3,0.65
+958,loved would definitely recommend friend family,5,0.35
+959,expected disappointing experience,5,-0.35
+960,terrible customer support respond email,5,-1.0
+961,product meet expectation quality subpar,3,0.0
+962,terrible customer support respond email,4,-1.0
+963,satisfied purchase good value money,4,0.6
+964,expected disappointing experience,1,-0.35
+965,expected disappointing experience,2,-0.35
+966,expected disappointing experience,5,-0.35
+967,expected disappointing experience,3,-0.35
+968,excellent customer service support team helpful,1,1.0
+969,loved would definitely recommend friend family,2,0.35
+970,terrible customer support respond email,3,-1.0
+971,great product satisfied quality service,4,0.65
+972,excellent customer service support team helpful,1,1.0
+973,product meet expectation quality subpar,4,0.0
+974,expected disappointing experience,3,-0.35
+975,amazing experience everything went smoothly,1,0.5
+976,product okay shipping took long,5,0.225
+977,terrible customer support respond email,1,-1.0
+978,product okay shipping took long,3,0.225
+979,amazing experience everything went smoothly,4,0.5
+980,satisfied purchase good value money,5,0.6
+981,excellent customer service support team helpful,3,1.0
+982,great product satisfied quality service,2,0.65
+983,product meet expectation quality subpar,5,0.0
+984,terrible customer support respond email,1,-1.0
+985,poor packaging arrived damaged happy purchase,5,0.2
+986,great product satisfied quality service,5,0.65
+987,terrible customer support respond email,2,-1.0
+988,great product satisfied quality service,3,0.65
+989,excellent customer service support team helpful,3,1.0
+990,satisfied purchase good value money,3,0.6
+991,product meet expectation quality subpar,2,0.0
+992,terrible customer support respond email,2,-1.0
+993,loved would definitely recommend friend family,5,0.35
+994,satisfied purchase good value money,5,0.6
+995,great product satisfied quality service,4,0.65
+996,loved would definitely recommend friend family,4,0.35
+997,poor packaging arrived damaged happy purchase,4,0.2
+998,excellent customer service support team helpful,5,1.0
+999,amazing experience everything went smoothly,2,0.5
+1000,excellent customer service support team helpful,4,1.0
